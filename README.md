@@ -107,10 +107,16 @@ $ python3 mprecon.py request_siteinfo --mp-server SCCM-MP.contoso.local --site-c
 
 More detailed information can be received with `-v` option.
 
+## Disclaimer
+
+This project is provided **for educational and research purposes only**.  
+It is intended to help security professionals, researchers, and students understand potential attack vectors and improve defensive measures.
+
 ## Reference
 
 - https://github.com/synacktiv/SCCMSecrets
 - https://github.com/subat0mik/Misconfiguration-Manager
 - https://github.com/slygoo/pssrecon
 - https://specterops.io/blog/2025/07/15/id-like-to-speak-to-your-manager-stealing-secrets-with-management-point-relays/
+
 - https://www.synacktiv.com/advisories/microsoft-configuration-manager-configmgr-2403-unauthenticated-sql-injections
